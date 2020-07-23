@@ -1,0 +1,93 @@
+
+                        /* ///// CHAPTER NO: 43 to 48 ///// */
+
+
+/* 2. Display some Mobile images in browser. On click on an image Show the message in alert to user.  */
+
+#style{
+    display: inline;
+    text-align: center;                        
+    margin:40px;
+}
+
+#mobile1{
+    width: 15%;
+    height: 100%;
+}
+                        
+#mobile2{
+    width: 20%;
+    height: 5%;
+}
+                       
+#mobile3{
+    width: 20%;
+    height: 40%;
+}
+
+
+
+ /* 4. Display an image in browser. Change the picture on mouseover and set the first picture on mouseout. */
+
+/* #img{
+    width: 300px;
+    height: 300px;
+} */
+
+
+ /* 5. Show a counter in browser. Counter should increase on click on increase button and decrease on click on decrease button. 
+    And show updated counter value in browser. */
+
+/* .small{
+    width: 20%;
+    height: 20%;
+    text-align: center;
+}
+
+.big{
+    width: 30%;
+    height: 30%;
+    text-align: center;
+}
+
+#btn{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    color: hotpink;
+    font-weight: bold;
+    font-size: 18px;
+} */
+
+
+                        /* ///////// CHAPTER NO: 49 to 52 ///////// */
+
+
+/* 1. Create a signup form and display form data in your web page on submission  (No) */
+
+/* #signup{
+    text-align: center;
+    margin: 20px;
+} */
+
+
+                        /* /////// CHAPTER NO: 68 ///////// */
+
+
+ /* 1.Consider you have 4 images in a file as shown below.
+Now when you click on an image it should display in a modal. */
+
+/* .img{
+    width: 250px;
+    height: 250px;
+    cursor: pointer;
+    margin-top: 25px;
+    margin-left: 15px;
+
+}
+
+.bigImage{
+    width: 450px;
+    height: 450px;
+    cursor: pointer;
+} */
